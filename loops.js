@@ -1,4 +1,4 @@
-for ([initialization]; [condition]; [iteration])
+for ([initialization]; [condition1],[condition2],[conditionN]; [iteration])
 {
   [Loopbody]
 }
